@@ -8,9 +8,8 @@ A final year B.Tech project from the Department of Electrical and Electronics En
 
 ## Demo
 
-![Rover field testing at Naadan Agro Farms](<img width="819" height="589" alt="image" src="https://github.com/user-attachments/assets/d10f0585-3e6d-4def-8e63-4ae67940bbed" />)
-
-![Live detection dashboard — Tomato Leaf Mold detected at 69.3% confidence](<img width="1045" height="743" alt="image" src="https://github.com/user-attachments/assets/033bf75f-9f93-459a-8265-b8a115f89658" />)
+![Rover field testing at Naadan Agro Farms]<img width="819" height="589" alt="image" src="https://github.com/user-attachments/assets/d10f0585-3e6d-4def-8e63-4ae67940bbed" />
+![Live detection dashboard — Tomato Leaf Mold detected at 69.3% confidence]<img width="1045" height="743" alt="image" src="https://github.com/user-attachments/assets/033bf75f-9f93-459a-8265-b8a115f89658" />
 
 ---
 
