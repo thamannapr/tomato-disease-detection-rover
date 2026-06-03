@@ -8,9 +8,9 @@ A final year B.Tech project from the Department of Electrical and Electronics En
 
 ## Demo
 
-![Rover field testing at Naadan Agro Farms](images/Rover.jpg)
+![Rover field testing at Naadan Agro Farms](images/rover.jpg)
 
-![Live detection dashboard — Tomato Leaf Mold detected at 69.3% confidence](images/Result.jpg)
+![Live detection dashboard — Tomato Leaf Mold detected at 69.3% confidence](images/result.jpg)
 
 ---
 
