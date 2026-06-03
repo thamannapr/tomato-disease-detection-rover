@@ -9,10 +9,10 @@ A final year B.Tech project from the Department of Electrical and Electronics En
 ## Demo
 
 Rover field testing at Naadan Agro Farms
-<img width="499" height="499" alt="image" src="https://github.com/user-attachments/assets/29e7d8e1-0ac1-419e-9a0a-2c9803def80e" />
+<img width="819" height="589" alt="image" src="https://github.com/user-attachments/assets/29e7d8e1-0ac1-419e-9a0a-2c9803def80e" />
 
 Live detection dashboard — Tomato Leaf Mold detected at 69.3% confidence
-<img width="499" height="499" alt="image" src="https://github.com/user-attachments/assets/64f7f038-69c0-4fdf-a826-c0c5a81f002e" />
+<img width="819" height="589" alt="image" src="https://github.com/user-attachments/assets/64f7f038-69c0-4fdf-a826-c0c5a81f002e" />
 
 ---
 
