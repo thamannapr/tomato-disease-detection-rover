@@ -2,7 +2,7 @@
 
 A final year B.Tech project from the Department of Electrical and Electronics Engineering, MBCET. An autonomous rover that detects tomato leaf diseases in real time using a MobileNetV2 deep learning model deployed on a Raspberry Pi, with integrated soil sensing, targeted spraying, and a live control dashboard.
 
-**Paper accepted at ICTEST 2026** — International Conference on Smart Communication and Sustainable Technologies, Saintgits College of Engineering, Kottayam (June 2026). Paper ID: 1248.
+**Paper accepted at ICSCST 2026** — International Conference on Smart Communication and Sustainable Technologies, Saintgits College of Engineering, Kottayam (June 2026). Paper ID: 1248.
 
 ---
 
